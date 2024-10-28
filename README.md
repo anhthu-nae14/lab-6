@@ -1,5 +1,6 @@
 # lab-6
 Câu 1: Công nghệ sử dụng: Framework: Torch, flask.
+
 Câu 2: Thuật toán đã sử dụng trong bài "Formula.ipynb" là Loss Function (Hàm mất mát) và Activation Function (Hàm kích hoạt)
 * Giải thích: Hàm mất mát được dùng để đo lường sự khác biệt giữa giá trị dự đoán và giá trị thực tế. Chúng thường được sử dụng để tối ưu hóa mô hình bằng cách giảm thiểu lỗi dự đoán.
 
