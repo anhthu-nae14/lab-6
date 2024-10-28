@@ -18,6 +18,24 @@ Cross Entropy Loss: Sử dụng trong các bài toán phân loại đa lớp.
 
 ![image](https://github.com/user-attachments/assets/97d4aa57-3d9c-4f9e-b2af-5a350011ea8d)
 
+* Giải thích: Hàm kích hoạt là thành phần quan trọng trong mạng nơ-ron, giúp mạng học được các biểu diễn phi tuyến tính của dữ liệu.
+Công thức:
+Sigmoid: Dùng phổ biến trong các mạng nơ-ron truyền thống và lớp đầu ra trong phân loại nhị phân.
+
+![image](https://github.com/user-attachments/assets/ec8cb184-18c1-4616-a92c-4c91de7a734f)
+
+ReLU (Rectified Linear Unit): Sử dụng nhiều trong các mạng nơ-ron sâu để giải quyết vấn đề biến mất đạo hàm (vanishing gradient).
+
+![image](https://github.com/user-attachments/assets/ea1c387c-6867-4bae-bbb7-7a5039e99715)
+
+Softmax: Dùng trong lớp đầu ra của các bài toán phân loại đa lớp để chuẩn hóa đầu ra thành xác suất.
+
+![image](https://github.com/user-attachments/assets/302786a0-84c3-4512-92c9-0931248c0bc4)
+
+Tanh: Thường được sử dụng trong các mạng RNN và các lớp ẩn.
+
+![image](https://github.com/user-attachments/assets/99c4b17f-5edf-4bc1-818e-29e52716c4d3)
+
 Câu 3: Hiện thị kết quả lên web 
 
 ![image](https://github.com/user-attachments/assets/897c45e5-2a1b-43e7-acfc-02818772a8b2)
